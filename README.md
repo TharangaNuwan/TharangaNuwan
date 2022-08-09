@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharanga Nuwan Kumara</h1>
+<h1 align="center">Hi 👋, I'm Tharanga Nuwan</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka.</h3>
 
 - 🔭 I’m currently working on [fiverr freelancing](https://www.fiverr.com/tharanganuwan?public_mode=true)
