@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharanga Nuwan</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka.</h3>
 
-- 🔭 I’m currently working on [fiverr freelancing](https://www.fiverr.com/tharanganuwan?public_mode=true)
+- 🔭 I’m currently working on [fiverr freelancing](https://www.fiverr.com/tharanganuwan?public_mode=true) & [Epic Lanka (Pvt) Ltd](https://www.epictechnology.lk/)
 
 - 🌱 I’m currently learning **spring boot,flutter,react and every thing**
 
