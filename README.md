@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [fiverr freelancing](https://www.fiverr.com/tharanganuwan?public_mode=true) & [Epic Lanka (Pvt) Ltd](https://www.epictechnology.lk/)
 
-- 🌱 I’m currently learning **spring boot,flutter,react and every thing**
+- 🌱 I’m currently learning **spring boot,DotNet,flutter,react,Angular and every thing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tharanganuwan?tab=repositories](https://github.com/tharanganuwan?tab=repositories)
 
