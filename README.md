@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Tharanga Nuwan</h1>
 <h3 align="center">A passionate fullStack developer from Sri Lanka.</h3>
 
-- 🔭 I’m currently working on [fiverr freelancing](https://www.fiverr.com/tharanganuwan?public_mode=true) & [Epic Lanka (Pvt) Ltd](https://www.epictechnology.lk/)
+- 🔭 Passionate software engineer specializing in full-stack development with expertise in .NET Core Web API, Angular, Flutter, and ASP.NET Web Forms. I build scalable, high-performance applications for financial systems and enterprise solutions.
 
-- 🌱 Ask me about **spring boot,DotNet,flutter,react,Angular**
+- 🌱 Ask me about **.NET Core, ASP.NET Web Forms, Angular, Flutter, Spring Boot,SQL Server, MySQL, Oracle, Firebase **
 
 - 👨‍💻 All of my projects are available at [https://github.com/tharanganuwan?tab=repositories](https://github.com/tharanganuwan?tab=repositories)
+
+- 🌱 Contributions
+
+Actively contribute to open-source projects related to .NET, Angular, and financial tech.
+
+Building tools to simplify enterprise-level application deployment and reporting.
+
+📚 Education
+
+B.S. in Computer Science (Eastern University - Sri Lanka)
+
+Certifications: Add relevant certifications (e.g., Microsoft .NET, Angular, etc.)
+
+📫 Let’s Collaborate!
+
+Open to contributions, freelance projects, and innovative ideas in financial tech and full-stack development.
+
+Reach out: 📧 Email | 💼 LinkedIn
 
 - 📫 How to reach me **tharangan999@gmail.com**
 
