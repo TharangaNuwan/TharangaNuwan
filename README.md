@@ -9,21 +9,17 @@
 
 - 🌱 Contributions
 
-Actively contribute to open-source projects related to .NET, Angular, and financial tech.
+      Actively contribute to open-source projects related to .NET, Angular, and financial tech.
 
-Building tools to simplify enterprise-level application deployment and reporting.
+      Building tools to simplify enterprise-level application deployment and reporting.
 
-📚 Education
+- 📚 Education
 
-B.S. in Computer Science (Eastern University - Sri Lanka)
+      B.S. in Computer Science (Eastern University - Sri Lanka)
 
-Certifications: Add relevant certifications (e.g., Microsoft .NET, Angular, etc.)
+- 📫 Let’s Collaborate!
 
-📫 Let’s Collaborate!
-
-Open to contributions, freelance projects, and innovative ideas in financial tech and full-stack development.
-
-Reach out: 📧 Email | 💼 LinkedIn
+      Open to contributions, freelance projects, and innovative ideas in financial tech and full-stack development.
 
 - 📫 How to reach me **tharangan999@gmail.com**
 
@@ -33,8 +29,8 @@ Reach out: 📧 Email | 💼 LinkedIn
 <p align="left">
 <a href="https://linkedin.com/in/tharanganuwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rocketnuwan" height="30" width="40" /></a>
 <a href="https://fb.com/rocketnuwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rocketnuwan" height="30" width="40" /></a>
-<a href="https://instagram.com/rocketnuwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocketnuwan_" height="30" width="40" /></a>
-<a href="https://twitter.com/tharanganuwan14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharanganuwan14" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
